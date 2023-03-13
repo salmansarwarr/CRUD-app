@@ -80,7 +80,7 @@ export default function Home({ messages }) {
         <div className="w-full h-[100vh] flex flex-col my-4 justify-center items-center">
             <div className="h-10 text-white w-full flex justify-center items-center">
                 <h1 className="text-[1.5rem] sm:text-4xl font-bold">
-                    Crud App
+                    Crud App (MongoDB)
                 </h1>
             </div>
             <p className="text-[#E50194] text-sm text-center sm:text-base md:text-lg">
